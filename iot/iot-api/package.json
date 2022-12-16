@@ -1,0 +1,24 @@
+{
+    "name": "iot-api",
+    "version": "1.0.0",
+    "description": "Hyperledger Fabric IOT Sample Application",
+    "main": "iot-api.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "fabric-ca-client": "~1.1.0",
+        "fabric-client": "~1.1.0",
+        "grpc": "^1.24.3",
+        "mqtt": "^4.2.4"
+    },
+    "author": "Fuzzy",
+    "license": "Apache-2.0",
+    "keywords": [
+        "Hyperledger",
+        "Fabric",
+        "Iot",
+        "Sample",
+        "Application"
+    ]
+}
